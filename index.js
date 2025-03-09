@@ -206,3 +206,37 @@
 
 // const name ="";
 // console.log(!name)
+
+
+//  class person {
+//     malik = "Golap"
+//     constructor (name, age, malik){
+//         // console.log(name, age)
+//         this.name = name;
+//         this.age = age;
+//         this.malik = malik;
+
+//     }
+
+//     parson2(){
+//         console.log(`my name is ${this.name} I am ${this.age} years Old`)
+//     }
+
+
+//  }
+// //  console.log(person)
+// const person1 = new person ("Tahmid", "21", "PH");
+// console.log(person1.parson2())
+
+
+function sum (num1, num2){
+    const result = num1 + num2;
+    // console.log(result)
+    console.log(result2)
+    if(true){
+        var result2 = num1 - num2
+    }
+
+}
+
+sum(10, 20)
